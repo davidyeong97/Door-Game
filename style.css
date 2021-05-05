@@ -1,3 +1,7 @@
+html {
+    font-size: 12px;
+}
+
 body {
     background-color: #010165;
     margin: 0px;
@@ -9,34 +13,34 @@ body {
 }
 
 .title-row {
-    margin-top: 42px;
-    margin-bottom: 21px;
+    margin-top: 3.5rem;
+    margin-bottom: 1.75rem;
     text-align: center;
 }
 
 .instructions-title {
     display: inline;
-    font-size: 18px;
+    font-size: 1.5rem;
     color: #00ffff;
     font-family: 'Work Sans';
 }
 
 .instructions-row {
     margin: 0 auto;
-    width: 400px;
+    width: 33.3rem;
 }
 
 .instructions-number {
-    padding-right: 25px;
+    padding-right: 2rem;
     font-family: 'Work Sans';
-    font-size: 36px;
+    font-size: 3rem;
     color: #00ffff;
 }
 
 .instructions-text {
-    padding: 10px;
+    padding: 0.83rem;
     font-family: 'Work Sans';
-    font-size: 14px;
+    font-size: 1.16rem;
     color: #ffffff;
 }
 
@@ -46,20 +50,20 @@ body {
 
 .door-frame {
     cursor: pointer;
-    padding: 10px;
+    padding: 0.83rem;
 }
 
 .start-row {
     margin: auto;
-    width: 120px;
-    height: 43px;
+    width: 10rem;
+    height: 3.5rem;
     font-family: 'Work Sans';
     background-color: #eb6536;
-    padding-top: 18px;
-    font-size: 18px;
+    padding-top: 1.5rem;
+    font-size: 1.5rem;
     text-align: center;
     color: #010165;
-    margin-bottom: 21px;
+    margin-bottom: 1.75rem;
     cursor: pointer;
 }
 
@@ -69,23 +73,23 @@ body {
 }
 
 .score-text {
-    margin-right: 17px;
-    padding: 5px;
+    margin-right: 1.5rem;
+    padding: 0.5rem;
     display: inline;
     font-family: 'Work Sans';
-    font-size: 12px;
+    font-size: 1rem;
     letter-spacing: 1.1px;
     color: #ffffff;
 }
 
 .score-box {
-    margin-top: 9px;
+    margin-top: 0.75rem;
     display: inline-block;
-    padding: 8px;
-    margin: 18px;
-    margin-right: 29px;
-    width: 59px;
+    padding: 0.7rem;
+    margin: 1.5rem;
+    margin-right: 2.5rem;
+    width: 5rem;
     background-color: #00ffff;
     font-family: 'Work Sans';
-    font-size: 45px;
+    font-size: 3.75rem;
 }
